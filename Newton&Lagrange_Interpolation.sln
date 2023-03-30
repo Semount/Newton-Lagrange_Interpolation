@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newton&Lagrange_Interpolation", "BigL6\Newton&Lagrange_Interpolation.csproj", "{A72C5E2B-95B8-4C8E-8D52-81128A8856CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A72C5E2B-95B8-4C8E-8D52-81128A8856CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72C5E2B-95B8-4C8E-8D52-81128A8856CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72C5E2B-95B8-4C8E-8D52-81128A8856CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72C5E2B-95B8-4C8E-8D52-81128A8856CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59905DBC-2A88-4A0D-9055-E6667BF9C6D0}
+	EndGlobalSection
+EndGlobal
